@@ -1,1 +1,1 @@
-# rocketseat-challenge-node-concepts
+# challenge-node-concepts
